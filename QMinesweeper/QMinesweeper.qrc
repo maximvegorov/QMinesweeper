@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/icons/document-new.png</file>
+        <file>res/icons/document-open.png</file>
+        <file>res/icons/document-save.png</file>
+        <file>res/icons/help-about.png</file>
+        <file>res/icons/MainIcon/MainIcon16x16.png</file>
+        <file>res/icons/MainIcon/MainIcon24x24.png</file>
+        <file>res/icons/MainIcon/MainIcon32x32.png</file>
+        <file>res/icons/MainIcon/MainIcon48x48.png</file>
+        <file>res/images/flag.png</file>
+        <file>res/images/mine.png</file>
+    </qresource>
+</RCC>
